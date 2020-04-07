@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.optum.basic.theme
+Bundle-SymbolicName: org.optum.basic.theme;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: smartjsp
+Fragment-Host: org.adempiere.ui.zk;bundle-version="7.1.0.qualifier"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ClassPath: theme/,
+ .,
+ zul/,
+ reports/
+Export-Package: org.adempiere.webui.dashboard
+Jetty-WarFragmentFolderPath: /
