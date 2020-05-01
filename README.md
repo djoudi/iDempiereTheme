@@ -24,13 +24,13 @@
 ## Sample Screen Shots
 
 ### Grid View
-![alt text](./images/gridview.png)
+![alt text](./images/gridview.PNG)
 
 ### Toolbar
-![alt text](./images/toolbar.png)
+![alt text](./images/toolbar.PNG)
 
 ### Attachment Popup
-![alt text](./images/attachment.png)
+![alt text](./images/attachment.PNG)
 =======
 IDempiere Theme Plugin :
 - Import theme plugin in eclipse
